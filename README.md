@@ -15,4 +15,7 @@ options  <br />
 
 1. Options and Derivatives Programming in C++: <br />
 Algorithms and Programming Techniques for the Financial Industry <br />
-by Carlos Oliveira (Apress, 2016)
+by Carlos Oliveira (Apress, 2016) <br />
+
+2. Accelerated C++: Practical Programming by Example <br />
+by Andrew Koenig, Barbara E. Moo  <br />
